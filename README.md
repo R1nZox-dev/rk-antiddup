@@ -3,6 +3,7 @@ hello guys soo this script is for anti dup discord ( anti double discord ) the s
 soo guys i made this fast soo i don't offer a support for it but join my discord open a ticket i'll respond as possible as i can 
 soo
 if u don't understand what this script do just open a ticket on discord i ll explane it to you 
+[discord](https://discord.gg/fcX35xvJap)
 # instalation 
 - drag and drop the sql file into any resource and excute it on heidisql 
 - copy the code on the server.lua and past it up to your join leave log 
