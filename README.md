@@ -9,5 +9,5 @@ if u don't understand what this script do just open a ticket on discord i ll exp
 - copy the code on the server.lua and past it up to your join leave log 
 like that [img](https://github.com/R1nZox-dev/rk-antiddup/blob/main/img.png)
 ## featurs 
-so when a player is joining for the first time it will insert to the database his discord id that's he is joining with if u ban him and he go create another discord and try to join with another discord on his carecthere is will drop him kick him and log it to your discord logs 
+so when a player is joining for the first time it will insert to the database his discord id if u ban him and he go create another discord account  and try to join with another discord on his carecthere is will drop him / kick him and log it to your discord logs 
 else if he keeps join with his real discord it will let him in like nothing happened 
